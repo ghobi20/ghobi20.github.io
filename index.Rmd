@@ -1,0 +1,27 @@
+---
+title: "Sofia Gamino"
+image: "luna.png"
+links:
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/ghobi20/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:ghobibohg@gmail.com"
+output:
+  postcards::solana
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I'm interested in regualtion of aging and chronic diseases, mainly by epigenetic mechanisms. I'm also intersted in ips-Cells and their potential in tissue regeneration.
+
+#### **Education**
+
+**Undergraduate Studies** | Licenciatura en Ciencias Genómicas | LCG | August 2023 - Present
+
+#### **Experience**
+
+Member of Claudia Jauregui's lab, working in rare disease modeling in model organism c.elegans
