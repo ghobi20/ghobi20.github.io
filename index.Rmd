@@ -7,7 +7,7 @@ links:
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:ghobibohg@gmail.com"
 output:
-  postcards::solana
+  postcards::jolla
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
